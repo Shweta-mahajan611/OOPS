@@ -1,0 +1,37 @@
+[ {
+  "dname" : "Pankaj Patil",
+  "did" : 1234,
+  "specialization" : "dentist",
+  "availability" : "12Am",
+  "appointments" : 3
+}, {
+  "dname" : "Subodh Patil",
+  "did" : 1235,
+  "specialization" : "eye",
+  "availability" : "12Am",
+  "appointments" : 4
+}, {
+  "dname" : "Sunita Patil",
+  "did" : 1254,
+  "specialization" : "dentist",
+  "availability" : "12Am",
+  "appointments" : 2
+}, {
+  "dname" : "navin",
+  "did" : 4565,
+  "specialization" : "md",
+  "availability" : "11AM",
+  "appointments" : 0
+}, {
+  "dname" : "ajit",
+  "did" : 1454,
+  "specialization" : "dentist",
+  "availability" : "11.45AM",
+  "appointments" : 0
+}, {
+  "dname" : "shruti",
+  "did" : 12345,
+  "specialization" : "md",
+  "availability" : "12.05Pm",
+  "appointments" : 0
+} ]

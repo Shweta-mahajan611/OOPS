@@ -1,0 +1,19 @@
+[ {
+  
+  "address" : "Kolhapur",
+  "city" : "kolhapur",
+  "state" : "maharastra",
+  "zip" : "412456"
+}, 
+{
+  "address" : "solapur",
+  "city" : "solapur",
+  "state" : "maharastra",
+  "zip" : "431134"
+},
+ {
+  "address" : "jalgaon",
+  "city" : "jalgaon",
+  "state" : "maharashtra",
+  "zip" : "421012"
+} ]

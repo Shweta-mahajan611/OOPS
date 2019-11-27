@@ -1,0 +1,21 @@
+
+{
+ 
+	"list1": {
+		"name": "rice",
+		"weight": 10,
+		"price": 50
+	},
+	
+	"list2": {
+		"name": "pulses",
+		"weight": 15,
+		"price": 1500
+	},
+	
+	"list3": {
+		"name": "wheats",
+		"weight": 20,
+		"price": 30
+	}	
+}

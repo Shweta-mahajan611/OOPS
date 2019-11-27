@@ -1,0 +1,36 @@
+[ {
+  "patientname" : "Aaryan Patil",
+  "patientid" : 123,
+  "pmbno" : "1234567890",
+  "age" : 20
+}, {
+  "patientname" : "Shubham Mahajan",
+  "patientid" : 12345,
+  "pmbno" : "1234567890",
+  "age" : 18
+}, {
+  "patientname" : "Siddhesh Patil",
+  "patientid" : 1234,
+  "pmbno" : "1234567890",
+  "age" : 20
+}, {
+  "patientname" : "sai",
+  "patientid" : 123,
+  "pmbno" : "1234567890",
+  "age" : 10
+}, {
+  "patientname" : "11",
+  "patientid" : 0,
+  "pmbno" : "ss",
+  "age" : 0
+}, {
+  "patientname" : "11",
+  "patientid" : 0,
+  "pmbno" : "sp",
+  "age" : 0
+}, {
+  "patientname" : "11",
+  "patientid" : 0,
+  "pmbno" : "ss",
+  "age" : 0
+} ]

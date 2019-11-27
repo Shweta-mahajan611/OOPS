@@ -1,0 +1,1 @@
+{"customerlist":[{"customer_id":"12345","no_of_Shares":8,"balance":10120.0,"customer_name":"Shweta"},{"customer_id":"123","no_of_Shares":5,"balance":1000.0,"customer_name":"Shivani"}],"companylist":[{"company_symbol":"jio","share":6,"share_price":20,"company_bal":280},{"company_symbol":"google","share":2,"share_price":20,"company_bal":0}]}
